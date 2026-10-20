@@ -1,0 +1,617 @@
+issue_id,suggested_category,suggested_action,confidence_score,review_status,model_method
+ISS-00001,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00002,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00003,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00004,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00005,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00006,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00007,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00008,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00009,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00010,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00011,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00012,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00013,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00014,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00015,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00016,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00017,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00018,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00019,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00020,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00021,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00022,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00023,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00024,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00025,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00026,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00027,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00028,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00029,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00030,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00031,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00032,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00033,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00034,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00035,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00036,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00037,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00038,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00039,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00040,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00041,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00042,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00043,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00044,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00045,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00046,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00047,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00048,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00049,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00050,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00051,Validity,Correct or quarantine email,0.94,Human Review,transparent_rule_baseline_v1
+ISS-00052,Validity,Correct or quarantine email,0.94,Human Review,transparent_rule_baseline_v1
+ISS-00053,Validity,Correct or quarantine email,0.94,Human Review,transparent_rule_baseline_v1
+ISS-00054,Validity,Correct or quarantine email,0.94,Human Review,transparent_rule_baseline_v1
+ISS-00055,Validity,Correct or quarantine email,0.94,Human Review,transparent_rule_baseline_v1
+ISS-00056,Validity,Correct or quarantine email,0.94,Human Review,transparent_rule_baseline_v1
+ISS-00057,Validity,Correct or quarantine email,0.94,Human Review,transparent_rule_baseline_v1
+ISS-00058,Validity,Correct or quarantine email,0.94,Human Review,transparent_rule_baseline_v1
+ISS-00059,Validity,Correct or quarantine email,0.94,Human Review,transparent_rule_baseline_v1
+ISS-00060,Validity,Correct or quarantine email,0.94,Human Review,transparent_rule_baseline_v1
+ISS-00061,Validity,Correct or quarantine email,0.94,Human Review,transparent_rule_baseline_v1
+ISS-00062,Validity,Correct or quarantine email,0.94,Human Review,transparent_rule_baseline_v1
+ISS-00063,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00064,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00065,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00066,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00067,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00068,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00069,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00070,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00071,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00072,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00073,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00074,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00075,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00076,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00077,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00078,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00079,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00080,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00081,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00082,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00083,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00084,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00085,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00086,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00087,Completeness,Request or recover phone,0.91,Human Review,transparent_rule_baseline_v1
+ISS-00088,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00089,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00090,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00091,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00092,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00093,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00094,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00095,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00096,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00097,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00098,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00099,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00100,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00101,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00102,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00103,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00104,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00105,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00106,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00107,Uniqueness,Merge or remove duplicate,0.97,Auto Accepted,transparent_rule_baseline_v1
+ISS-00108,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00109,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00110,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00111,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00112,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00113,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00114,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00115,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00116,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00117,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00118,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00119,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00120,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00121,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00122,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00123,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00124,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00125,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00126,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00127,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00128,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00129,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00130,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00131,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00132,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00133,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00134,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00135,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00136,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00137,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00138,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00139,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00140,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00141,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00142,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00143,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00144,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00145,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00146,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00147,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00148,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00149,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00150,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00151,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00152,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00153,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00154,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00155,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00156,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00157,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00158,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00159,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00160,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00161,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00162,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00163,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00164,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00165,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00166,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00167,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00168,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00169,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00170,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00171,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00172,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00173,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00174,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00175,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00176,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00177,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00178,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00179,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00180,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00181,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00182,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00183,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00184,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00185,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00186,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00187,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00188,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00189,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00190,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00191,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00192,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00193,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00194,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00195,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00196,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00197,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00198,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00199,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00200,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00201,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00202,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00203,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00204,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00205,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00206,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00207,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00208,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00209,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00210,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00211,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00212,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00213,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00214,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00215,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00216,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00217,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00218,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00219,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00220,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00221,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00222,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00223,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00224,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00225,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00226,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00227,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00228,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00229,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00230,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00231,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00232,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00233,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00234,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00235,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00236,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00237,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00238,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00239,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00240,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00241,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00242,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00243,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00244,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00245,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00246,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00247,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00248,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00249,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00250,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00251,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00252,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00253,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00254,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00255,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00256,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00257,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00258,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00259,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00260,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00261,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00262,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00263,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00264,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00265,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00266,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00267,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00268,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00269,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00270,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00271,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00272,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00273,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00274,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00275,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00276,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00277,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00278,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00279,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00280,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00281,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00282,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00283,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00284,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00285,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00286,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00287,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00288,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00289,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00290,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00291,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00292,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00293,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00294,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00295,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00296,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00297,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00298,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00299,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00300,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00301,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00302,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00303,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00304,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00305,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00306,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00307,Completeness,Reload missing source record,0.98,Auto Accepted,transparent_rule_baseline_v1
+ISS-00308,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00309,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00310,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00311,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00312,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00313,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00314,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00315,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00316,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00317,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00318,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00319,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00320,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00321,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00322,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00323,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00324,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00325,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00326,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00327,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00328,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00329,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00330,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00331,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00332,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00333,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00334,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00335,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00336,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00337,Referential integrity,Repair customer foreign key,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00338,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00339,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00340,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00341,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00342,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00343,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00344,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00345,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00346,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00347,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00348,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00349,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00350,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00351,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00352,Accuracy,Recalculate normalized amount,0.96,Auto Accepted,transparent_rule_baseline_v1
+ISS-00353,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00354,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00355,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00356,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00357,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00358,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00359,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00360,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00361,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00362,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00363,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00364,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00365,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00366,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00367,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00368,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00369,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00370,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00371,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00372,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00373,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00374,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00375,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00376,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00377,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00378,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00379,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00380,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00381,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00382,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00383,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00384,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00385,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00386,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00387,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00388,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00389,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00390,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00391,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00392,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00393,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00394,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00395,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00396,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00397,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00398,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00399,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00400,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00401,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00402,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00403,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00404,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00405,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00406,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00407,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00408,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00409,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00410,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00411,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00412,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00413,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00414,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00415,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00416,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00417,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00418,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00419,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00420,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00421,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00422,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00423,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00424,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00425,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00426,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00427,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00428,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00429,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00430,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00431,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00432,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00433,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00434,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00435,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00436,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00437,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00438,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00439,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00440,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00441,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00442,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00443,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00444,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00445,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00446,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00447,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00448,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00449,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00450,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00451,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00452,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00453,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00454,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00455,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00456,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00457,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00458,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00459,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00460,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00461,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00462,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00463,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00464,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00465,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00466,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00467,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00468,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00469,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00470,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00471,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00472,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00473,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00474,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00475,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00476,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00477,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00478,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00479,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00480,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00481,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00482,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00483,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00484,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00485,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00486,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00487,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00488,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00489,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00490,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00491,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00492,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00493,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00494,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00495,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00496,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00497,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00498,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00499,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00500,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00501,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00502,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00503,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00504,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00505,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00506,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00507,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00508,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00509,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00510,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00511,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00512,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00513,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00514,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00515,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00516,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00517,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00518,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00519,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00520,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00521,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00522,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00523,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00524,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00525,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00526,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00527,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00528,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00529,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00530,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00531,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00532,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00533,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00534,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00535,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00536,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00537,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00538,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00539,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00540,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00541,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00542,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00543,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00544,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00545,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00546,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00547,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00548,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00549,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00550,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00551,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00552,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00553,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00554,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00555,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00556,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00557,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00558,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00559,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00560,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00561,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00562,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00563,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00564,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00565,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00566,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00567,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00568,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00569,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00570,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00571,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00572,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00573,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00574,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00575,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00576,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00577,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00578,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00579,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00580,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00581,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00582,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00583,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00584,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00585,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00586,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00587,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00588,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00589,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00590,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00591,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00592,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00593,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00594,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00595,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00596,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00597,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00598,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00599,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00600,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00601,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00602,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00603,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00604,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00605,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00606,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00607,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00608,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00609,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00610,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00611,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00612,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00613,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00614,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00615,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1
+ISS-00616,Referential integrity,Migrate customer before order,0.99,Auto Accepted,transparent_rule_baseline_v1

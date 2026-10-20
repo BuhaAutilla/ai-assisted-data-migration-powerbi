@@ -1,0 +1,617 @@
+issue_id,entity_type,legacy_id,issue_type,severity,description,detected_by
+ISS-00001,customer,25,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00002,customer,80,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00003,customer,104,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00004,customer,109,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00005,customer,136,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00006,customer,162,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00007,customer,169,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00008,customer,181,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00009,customer,182,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00010,customer,197,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00011,customer,214,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00012,customer,218,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00013,customer,220,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00014,customer,239,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00015,customer,249,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00016,customer,253,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00017,customer,271,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00018,customer,314,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00019,customer,319,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00020,customer,327,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00021,customer,333,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00022,customer,371,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00023,customer,399,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00024,customer,431,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00025,customer,453,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00026,customer,456,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00027,customer,463,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00028,customer,468,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00029,customer,499,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00030,customer,566,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00031,customer,574,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00032,customer,575,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00033,customer,600,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00034,customer,602,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00035,customer,603,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00036,customer,607,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00037,customer,654,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00038,customer,729,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00039,customer,733,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00040,customer,767,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00041,customer,800,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00042,customer,825,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00043,customer,831,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00044,customer,833,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00045,customer,857,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00046,customer,867,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00047,customer,926,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00048,customer,966,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00049,customer,970,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00050,customer,976,missing_record,Critical,Legacy customer is absent from target.,controlled_injection
+ISS-00051,customer,820,invalid_email,Medium,Target email has an invalid format.,controlled_injection
+ISS-00052,customer,521,invalid_email,Medium,Target email has an invalid format.,controlled_injection
+ISS-00053,customer,71,invalid_email,Medium,Target email has an invalid format.,controlled_injection
+ISS-00054,customer,405,invalid_email,Medium,Target email has an invalid format.,controlled_injection
+ISS-00055,customer,128,invalid_email,Medium,Target email has an invalid format.,controlled_injection
+ISS-00056,customer,88,invalid_email,Medium,Target email has an invalid format.,controlled_injection
+ISS-00057,customer,57,invalid_email,Medium,Target email has an invalid format.,controlled_injection
+ISS-00058,customer,882,invalid_email,Medium,Target email has an invalid format.,controlled_injection
+ISS-00059,customer,166,invalid_email,Medium,Target email has an invalid format.,controlled_injection
+ISS-00060,customer,634,invalid_email,Medium,Target email has an invalid format.,controlled_injection
+ISS-00061,customer,171,invalid_email,Medium,Target email has an invalid format.,controlled_injection
+ISS-00062,customer,916,invalid_email,Medium,Target email has an invalid format.,controlled_injection
+ISS-00063,customer,245,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00064,customer,17,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00065,customer,412,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00066,customer,252,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00067,customer,726,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00068,customer,302,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00069,customer,555,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00070,customer,757,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00071,customer,301,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00072,customer,638,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00073,customer,393,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00074,customer,714,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00075,customer,922,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00076,customer,98,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00077,customer,610,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00078,customer,229,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00079,customer,473,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00080,customer,188,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00081,customer,851,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00082,customer,744,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00083,customer,29,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00084,customer,179,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00085,customer,544,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00086,customer,115,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00087,customer,383,missing_phone,Low,Target phone is missing.,controlled_injection
+ISS-00088,customer,853,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00089,customer,757,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00090,customer,874,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00091,customer,605,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00092,customer,836,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00093,customer,155,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00094,customer,604,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00095,customer,379,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00096,customer,490,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00097,customer,240,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00098,customer,638,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00099,customer,263,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00100,customer,761,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00101,customer,467,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00102,customer,527,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00103,customer,909,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00104,customer,558,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00105,customer,377,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00106,customer,560,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00107,customer,455,duplicate_record,High,Customer appears more than once in target.,controlled_injection
+ISS-00108,order,54,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00109,order,116,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00110,order,124,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00111,order,151,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00112,order,152,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00113,order,154,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00114,order,156,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00115,order,162,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00116,order,169,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00117,order,192,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00118,order,193,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00119,order,228,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00120,order,242,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00121,order,292,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00122,order,294,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00123,order,336,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00124,order,340,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00125,order,351,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00126,order,384,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00127,order,393,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00128,order,408,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00129,order,433,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00130,order,447,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00131,order,465,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00132,order,523,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00133,order,548,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00134,order,584,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00135,order,591,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00136,order,672,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00137,order,784,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00138,order,792,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00139,order,827,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00140,order,866,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00141,order,1004,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00142,order,1006,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00143,order,1030,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00144,order,1036,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00145,order,1039,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00146,order,1045,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00147,order,1059,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00148,order,1067,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00149,order,1071,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00150,order,1084,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00151,order,1085,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00152,order,1102,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00153,order,1190,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00154,order,1264,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00155,order,1270,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00156,order,1344,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00157,order,1348,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00158,order,1364,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00159,order,1389,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00160,order,1424,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00161,order,1434,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00162,order,1512,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00163,order,1519,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00164,order,1540,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00165,order,1570,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00166,order,1637,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00167,order,1664,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00168,order,1685,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00169,order,1698,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00170,order,1727,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00171,order,1742,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00172,order,1808,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00173,order,1827,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00174,order,1832,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00175,order,1839,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00176,order,1853,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00177,order,1861,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00178,order,1866,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00179,order,1872,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00180,order,1906,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00181,order,1935,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00182,order,1940,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00183,order,1961,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00184,order,2026,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00185,order,2033,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00186,order,2038,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00187,order,2069,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00188,order,2099,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00189,order,2122,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00190,order,2133,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00191,order,2143,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00192,order,2154,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00193,order,2158,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00194,order,2178,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00195,order,2209,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00196,order,2251,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00197,order,2268,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00198,order,2273,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00199,order,2304,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00200,order,2318,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00201,order,2334,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00202,order,2336,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00203,order,2370,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00204,order,2406,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00205,order,2416,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00206,order,2449,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00207,order,2486,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00208,order,2518,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00209,order,2519,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00210,order,2531,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00211,order,2543,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00212,order,2557,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00213,order,2597,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00214,order,2650,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00215,order,2665,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00216,order,2684,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00217,order,2694,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00218,order,2698,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00219,order,2728,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00220,order,2774,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00221,order,2790,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00222,order,2861,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00223,order,2969,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00224,order,2971,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00225,order,2985,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00226,order,2987,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00227,order,3020,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00228,order,3031,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00229,order,3034,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00230,order,3050,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00231,order,3104,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00232,order,3127,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00233,order,3148,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00234,order,3162,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00235,order,3167,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00236,order,3172,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00237,order,3176,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00238,order,3263,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00239,order,3266,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00240,order,3279,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00241,order,3286,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00242,order,3361,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00243,order,3362,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00244,order,3381,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00245,order,3382,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00246,order,3414,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00247,order,3427,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00248,order,3457,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00249,order,3463,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00250,order,3468,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00251,order,3470,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00252,order,3496,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00253,order,3547,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00254,order,3554,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00255,order,3557,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00256,order,3558,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00257,order,3562,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00258,order,3587,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00259,order,3591,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00260,order,3644,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00261,order,3654,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00262,order,3712,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00263,order,3732,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00264,order,3751,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00265,order,3812,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00266,order,3861,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00267,order,3868,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00268,order,3898,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00269,order,3906,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00270,order,3933,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00271,order,3982,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00272,order,3993,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00273,order,4001,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00274,order,4028,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00275,order,4073,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00276,order,4229,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00277,order,4261,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00278,order,4275,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00279,order,4283,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00280,order,4323,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00281,order,4375,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00282,order,4381,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00283,order,4398,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00284,order,4410,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00285,order,4414,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00286,order,4491,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00287,order,4503,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00288,order,4537,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00289,order,4538,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00290,order,4568,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00291,order,4594,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00292,order,4603,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00293,order,4631,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00294,order,4636,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00295,order,4704,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00296,order,4735,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00297,order,4763,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00298,order,4777,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00299,order,4876,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00300,order,4892,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00301,order,4936,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00302,order,4939,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00303,order,4941,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00304,order,4962,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00305,order,4967,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00306,order,4984,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00307,order,4993,missing_record,Critical,Legacy order is absent from target.,controlled_injection
+ISS-00308,order,1561,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00309,order,2032,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00310,order,4990,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00311,order,3746,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00312,order,2217,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00313,order,1806,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00314,order,636,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00315,order,1283,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00316,order,4253,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00317,order,3965,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00318,order,2195,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00319,order,1702,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00320,order,971,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00321,order,1151,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00322,order,3776,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00323,order,4493,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00324,order,1123,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00325,order,3306,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00326,order,1967,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00327,order,115,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00328,order,1212,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00329,order,3515,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00330,order,366,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00331,order,698,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00332,order,4345,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00333,order,2279,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00334,order,252,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00335,order,3773,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00336,order,3498,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00337,order,1928,orphan_record,Critical,Order references a customer that does not exist.,controlled_injection
+ISS-00338,order,2927,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00339,order,4919,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00340,order,467,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00341,order,4258,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00342,order,1292,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00343,order,3438,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00344,order,1970,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00345,order,1591,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00346,order,2536,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00347,order,1645,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00348,order,2897,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00349,order,994,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00350,order,314,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00351,order,1812,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00352,order,3875,amount_mismatch,High,Target amount differs materially from the normalized source amount.,controlled_injection
+ISS-00353,order,39,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00354,order,68,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00355,order,74,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00356,order,88,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00357,order,155,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00358,order,190,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00359,order,210,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00360,order,227,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00361,order,238,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00362,order,288,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00363,order,313,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00364,order,315,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00365,order,324,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00366,order,329,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00367,order,330,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00368,order,342,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00369,order,360,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00370,order,392,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00371,order,419,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00372,order,422,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00373,order,425,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00374,order,444,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00375,order,448,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00376,order,454,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00377,order,471,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00378,order,476,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00379,order,489,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00380,order,490,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00381,order,516,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00382,order,519,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00383,order,594,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00384,order,607,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00385,order,627,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00386,order,671,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00387,order,685,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00388,order,721,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00389,order,747,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00390,order,775,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00391,order,780,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00392,order,801,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00393,order,807,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00394,order,845,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00395,order,861,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00396,order,893,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00397,order,897,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00398,order,900,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00399,order,949,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00400,order,979,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00401,order,984,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00402,order,1015,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00403,order,1020,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00404,order,1038,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00405,order,1081,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00406,order,1086,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00407,order,1126,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00408,order,1139,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00409,order,1141,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00410,order,1182,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00411,order,1208,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00412,order,1210,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00413,order,1213,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00414,order,1251,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00415,order,1255,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00416,order,1267,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00417,order,1337,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00418,order,1373,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00419,order,1380,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00420,order,1383,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00421,order,1384,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00422,order,1411,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00423,order,1432,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00424,order,1448,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00425,order,1451,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00426,order,1531,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00427,order,1541,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00428,order,1545,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00429,order,1550,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00430,order,1593,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00431,order,1616,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00432,order,1625,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00433,order,1659,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00434,order,1687,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00435,order,1695,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00436,order,1717,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00437,order,1767,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00438,order,1782,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00439,order,1819,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00440,order,1830,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00441,order,1836,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00442,order,1841,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00443,order,1876,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00444,order,1913,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00445,order,1918,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00446,order,1923,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00447,order,1925,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00448,order,1938,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00449,order,1993,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00450,order,1994,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00451,order,2007,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00452,order,2009,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00453,order,2012,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00454,order,2043,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00455,order,2045,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00456,order,2060,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00457,order,2068,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00458,order,2111,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00459,order,2188,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00460,order,2215,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00461,order,2218,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00462,order,2226,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00463,order,2234,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00464,order,2266,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00465,order,2275,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00466,order,2297,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00467,order,2303,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00468,order,2314,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00469,order,2330,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00470,order,2341,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00471,order,2362,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00472,order,2373,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00473,order,2374,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00474,order,2410,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00475,order,2413,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00476,order,2414,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00477,order,2429,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00478,order,2453,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00479,order,2460,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00480,order,2482,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00481,order,2487,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00482,order,2499,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00483,order,2504,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00484,order,2530,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00485,order,2532,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00486,order,2541,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00487,order,2555,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00488,order,2569,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00489,order,2590,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00490,order,2594,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00491,order,2595,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00492,order,2703,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00493,order,2724,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00494,order,2766,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00495,order,2794,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00496,order,2816,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00497,order,2878,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00498,order,2884,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00499,order,2889,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00500,order,2900,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00501,order,2923,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00502,order,2926,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00503,order,2933,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00504,order,2954,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00505,order,2988,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00506,order,3040,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00507,order,3057,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00508,order,3059,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00509,order,3065,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00510,order,3081,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00511,order,3100,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00512,order,3106,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00513,order,3171,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00514,order,3212,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00515,order,3225,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00516,order,3238,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00517,order,3287,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00518,order,3289,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00519,order,3374,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00520,order,3375,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00521,order,3396,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00522,order,3418,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00523,order,3465,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00524,order,3504,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00525,order,3505,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00526,order,3538,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00527,order,3564,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00528,order,3571,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00529,order,3586,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00530,order,3588,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00531,order,3638,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00532,order,3686,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00533,order,3706,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00534,order,3723,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00535,order,3747,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00536,order,3763,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00537,order,3788,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00538,order,3814,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00539,order,3817,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00540,order,3823,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00541,order,3848,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00542,order,3857,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00543,order,3859,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00544,order,3876,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00545,order,3881,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00546,order,3892,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00547,order,3905,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00548,order,3941,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00549,order,3949,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00550,order,3951,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00551,order,3970,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00552,order,4046,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00553,order,4049,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00554,order,4058,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00555,order,4070,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00556,order,4080,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00557,order,4089,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00558,order,4108,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00559,order,4140,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00560,order,4189,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00561,order,4190,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00562,order,4219,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00563,order,4224,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00564,order,4235,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00565,order,4236,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00566,order,4243,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00567,order,4251,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00568,order,4254,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00569,order,4255,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00570,order,4260,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00571,order,4272,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00572,order,4279,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00573,order,4281,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00574,order,4308,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00575,order,4309,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00576,order,4317,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00577,order,4361,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00578,order,4377,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00579,order,4382,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00580,order,4393,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00581,order,4409,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00582,order,4426,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00583,order,4440,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00584,order,4444,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00585,order,4456,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00586,order,4550,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00587,order,4569,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00588,order,4576,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00589,order,4585,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00590,order,4589,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00591,order,4590,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00592,order,4617,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00593,order,4647,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00594,order,4655,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00595,order,4660,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00596,order,4666,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00597,order,4682,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00598,order,4684,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00599,order,4700,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00600,order,4705,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00601,order,4708,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00602,order,4721,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00603,order,4731,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00604,order,4744,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00605,order,4767,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00606,order,4802,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00607,order,4817,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00608,order,4819,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00609,order,4844,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00610,order,4867,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00611,order,4868,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00612,order,4898,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00613,order,4905,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00614,order,4917,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00615,order,4953,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
+ISS-00616,order,4971,unmapped_customer,Critical,"Order customer was not migrated, leaving no valid target key.",controlled_injection
