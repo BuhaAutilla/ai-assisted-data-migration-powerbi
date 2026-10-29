@@ -2,6 +2,8 @@
 
 An end-to-end analytics portfolio project that uses **Python, SQL, Power Query, DAX, and Power BI** to validate a CRM migration and route ambiguous cases through an auditable AI-assisted review workflow.
 
+> **Method note:** the current version uses a transparent, reproducible baseline (rule-based classification + TF-IDF text similarity), not an LLM. The workflow is designed so a language model can replace the matcher later without changing the review and audit logic.
+
 The project answers one practical question: **is the migrated data reliable enough for business reporting?**
 
 ![Executive Overview](docs/screenshots/01-executive-overview.png)
